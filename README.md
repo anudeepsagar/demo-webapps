@@ -1,4 +1,4 @@
 # demo-webapps
 
 take me to goolge <www.google.com>
-use <https://apple.com>
+use <www.apple.com>
